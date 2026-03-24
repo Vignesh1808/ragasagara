@@ -68,7 +68,7 @@ const data = [
       "https://scontent.fdel11-4.fna.fbcdn.net/v/t39.30808-6/468407753_10161084320268450_2134971483147402875_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f798df&_nc_ohc=JQ2KhEk-fWMQ7kNvwGK3UA6&_nc_oc=AdrfTYdI_atd6eUT6zsXpyvb1TmW9-WEsOVBeVoJhPdz5lSepKsqNPo3dI7N9k1QzkVu4_lkB-fffaB_mgR-ZMKi&_nc_zt=23&_nc_ht=scontent.fdel11-4.fna&_nc_gid=TOn4Ab4b0FK9UlW91ok5uA&_nc_ss=7a32e&oh=00_AfzSjwuPyXisr13yxsJdVyYIdCPerssvxV3suH35QdvGDw&oe=69C574E8",
       "https://scontent.fdel11-2.fna.fbcdn.net/v/t39.30808-6/468652279_10161084319483450_882133102900266131_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f798df&_nc_ohc=BmAo037pG9sQ7kNvwHy3uMw&_nc_oc=AdqLRvZl5MiqGOE-dpJz7Td0gsYghNHVZfbZBwVWZvGBqlkvXLHxNTSvm3UyjrQ0iYBAz4Z5mzX0gzy_4N4O5hTC&_nc_zt=23&_nc_ht=scontent.fdel11-2.fna&_nc_gid=RuSGExkGWkXae6jIeBRePA&_nc_ss=7a32e&oh=00_AfwiYVtRLs8voMegvLDn8TaJe3E_dReiRZhK_FKplwUEQA&oe=69C59A07",
     ],
-    audio: "/audio/Hyderabad Sample.mp3",
+    audio: "/audio/hyderabad-sample.mp3",
   },
 ];
 const continents = [
